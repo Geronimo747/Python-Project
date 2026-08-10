@@ -193,6 +193,7 @@ Built a factorial calculation tool that:
 
 ## 📐 Number Pattern Generator
 Created a staircase pattern generator using nested loops:
+
 <img width="260" height="171" alt="image" src="https://github.com/user-attachments/assets/c2445274-993d-41bf-8d42-fde7e8773cd2" />
 
 ---
