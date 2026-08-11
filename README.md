@@ -30,7 +30,7 @@ Created a visitor registration program that:
 - Displays a personalised greeting
 - Provides eligibility information based on age
 
-### Skills Used
+## Skills Used
 - User input
 - Variables
 - String formatting
@@ -58,7 +58,7 @@ Built a temperature conversion tool that:
 - Converts Fahrenheit to Celsius
 - Includes input validation and menu options
 
-### Skills Used
+## Skills Used
 - Mathematical formulas
 - While loops
 - Input validation
@@ -73,7 +73,7 @@ Created a distance conversion application that:
 - Converts Kilometres ➜ Miles
 - Allows the user to perform multiple conversions
 
-### Skills Used
+## Skills Used
 - Loops
 - User interaction
 - Mathematical calculations
@@ -87,7 +87,7 @@ Designed a fun program that:
 - Separates individual digits
 - Calculates the sum of the digits
 
-### Skills Used
+## Skills Used
 - Floor division (`//`)
 - Modulus operator (`%`)
 - Integer arithmetic
@@ -101,7 +101,7 @@ Developed a puzzle-solving tool that:
 - Extracts individual digits
 - Reverses the number to create a secret code
 
-### Skills Used
+## Skills Used
 - Digit extraction
 - Number manipulation
 - Mathematical logic
@@ -117,7 +117,7 @@ Created a login system that:
 - Grants or denies access
 - Locks the account after multiple failed attempts
 
-### Skills Used
+## Skills Used
 - While loops
 - Authentication logic
 - Conditional statements
@@ -130,7 +130,7 @@ Built a maths utility that:
 - Checks if a number is divisible by both 3 and 7
 - Displays clear feedback to the user
 
-### Skills Used
+## Skills Used
 - Modulus operator (`%`)
 - Boolean logic
 
@@ -145,7 +145,7 @@ Developed an interactive calculator capable of:
 - Division
 - Exit functionality
 
-### Skills Used
+## Skills Used
 - Menu systems
 - Loops
 - Conditional statements
@@ -159,7 +159,7 @@ Created a program that:
 - Calculates the total sum from 1 to a chosen number
 - Simulates increasing daily fitness goals
 
-### Skills Used
+## Skills Used
 - For loops
 - Accumulators
 - Mathematical calculations
@@ -172,7 +172,7 @@ Designed a program that:
 - Determines whether a number is prime
 - Displays an appropriate result
 
-### Skills Used
+## Skills Used
 - Loops
 - Decision making
 - Number theory
@@ -185,7 +185,7 @@ Built a factorial calculation tool that:
 - Accepts a non-negative integer
 - Calculates the factorial value
 
-### Skills Used
+## Skills Used
 - Iteration
 - Mathematical problem solving
 
@@ -202,7 +202,7 @@ Created a staircase pattern generator using nested loops:
 
 One of the most common beginner programming challenges is **FizzBuzz**, which tests the use of loops, conditional statements, and the modulus operator.
 
-### 🎯 Objective
+## 🎯 Objective
 
 Create a program that loops through numbers from **1 to 100** and:
 
@@ -211,7 +211,7 @@ Create a program that loops through numbers from **1 to 100** and:
 - Prints **"FizzBuzz"** if the number is divisible by both numbers
 - Otherwise prints the number itself
 
-### 💻 Python Solution
+## 💻 Python Solution
 
 ```python
 fizzbuzz = input("Enter a number: ")
