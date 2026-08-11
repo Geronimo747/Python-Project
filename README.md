@@ -44,7 +44,7 @@ Developed a program that:
 - Calculates total floor area
 - Calculates tile cost based on price per square metre
 
-### Skills Used
+## Skills Used
 - Float data types
 - Mathematical calculations
 - Formatted output
