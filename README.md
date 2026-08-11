@@ -17,7 +17,7 @@ Throughout these exercises, I developed programs using core Python concepts incl
 - ✅ Floor division (`//`) and modulus (`%`)
 - ✅ Problem-solving and debugging
 
-These tasks helped strengthen my understanding of Python fundamentals and demonstrated how programming can be used to solve everyday business and customer-focused challenges. 【1-9e39f0】
+These tasks helped strengthen my understanding of Python fundamentals and demonstrated how programming can be used to solve everyday business and customer-focused challenges. 
 
 ---
 
