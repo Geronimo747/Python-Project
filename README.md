@@ -49,6 +49,18 @@ Developed a program that:
 - Mathematical calculations
 - Formatted output
 
+```python
+print("Hello Guest\n")
+Name = input("Please Provide Name: ")
+Age = input("Please Provide Age: ")
+print("Hello",Name,"\b, welcome to the Community Centre! At",Age,"\b, you're eligible for our young adults programe.")
+```     
+Hello Guest
+
+Please Provide Name: Geronimo
+Please Provide Age: 29
+Hello Geronimo , welcome to the Community Centre! At 29 ,you're eligible for our young adults programe.
+
 ---
 
 ## 🌡️ Temperature Converter
