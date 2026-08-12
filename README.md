@@ -1,5 +1,5 @@
 # Python-Project
-# 🐍 Python Fundamentals Project Portfolio
+# <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/84ac4126-4898-4501-b24e-48ce48785eeb" /> Python Fundamentals Project Portfolio
 
 ## 📖 Overview
 
@@ -21,9 +21,9 @@ These tasks helped strengthen my understanding of Python fundamentals and demons
 
 ---
 
-# 📅 Day 1 - Python Basics
+# Day 1 - Python Basics
 
-## 🏢 Community Centre Reception System
+## Community Centre Reception System
 Created a visitor registration program that:
 
 - Collects a visitor's name and age
@@ -37,7 +37,7 @@ Created a visitor registration program that:
 
 ---
 
-## 🏠 Kitchen Tile Calculator
+## Kitchen Tile Calculator
 Developed a program that:
 
 - Accepts kitchen length and width
@@ -202,7 +202,7 @@ Created a staircase pattern generator using nested loops:
 
 One of the most common beginner programming challenges is **FizzBuzz**, which tests the use of loops, conditional statements, and the modulus operator.
 
-## 🎯 Objective
+## Objective
 
 Create a program that loops through numbers from **1 to 100** and:
 
@@ -211,7 +211,7 @@ Create a program that loops through numbers from **1 to 100** and:
 - Prints **"FizzBuzz"** if the number is divisible by both numbers
 - Otherwise prints the number itself
 
-## 💻 Python Solution
+## Python Solution
 
 ```python
 fizzbuzz = input("Enter a number: ")
