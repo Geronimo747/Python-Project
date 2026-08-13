@@ -501,7 +501,20 @@ The factorial of 5 is 120
 ## 📐 Number Pattern Generator
 Created a staircase pattern generator using nested loops:
 
-<img width="260" height="171" alt="image" src="https://github.com/user-attachments/assets/c2445274-993d-41bf-8d42-fde7e8773cd2" />
+
+```python
+rows = int(input("Enter the number of rows: "))
+for i in range(1, rows + 1):
+    for j in range(1, i + 1):
+        print(j, end=" ")
+    print()
+```
+Enter the number of rows: 5
+1 
+1 2 
+1 2 3 
+1 2 3 4 
+1 2 3 4 5 
 
 ---
 
