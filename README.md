@@ -205,6 +205,14 @@ while str.upper(choice) != "X" :
 
 If you wish to convert miles to km press A and if you wish to 
 convert km to miles press B.
+ or X to Quit
+make your choice a
+A
+Enter distance you wish to convert to km 56
+34.796873252389176 km
+If you wish to convert miles to km press A and if you wish to 
+convert km to miles press B.
+ or X to Quit
 make your choice x
 X
 
