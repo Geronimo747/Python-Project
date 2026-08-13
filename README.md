@@ -509,7 +509,9 @@ for i in range(1, rows + 1):
         print(j, end=" ")
     print()
 ```
+
 Enter the number of rows: 5
+
 1 
 
 1 2 
